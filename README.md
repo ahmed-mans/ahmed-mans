@@ -22,7 +22,7 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 ### 🛠️ Skills & Expertise
 
 - Technologies :
-  [![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
   [![My Skills](https://skillicons.dev/icons?i=opencv,py,cpp,c,tensorflow,pytorch,raspberrypi,arduino,anaconda,vscode,latex,github,git)](https://skillicons.dev)
 
