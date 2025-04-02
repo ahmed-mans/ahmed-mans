@@ -20,7 +20,8 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 
 
 ### 🛠️ Skills & Expertise
-
+- Language : French, English, Urdu/Hindi
+- Core Expertise: Deep Learning, Computer Vision, Image Processing, Machine Learning
 - Technologies :
 
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -44,5 +45,4 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
-  [![My Skills](https://skillicons.dev/icons?i=opencv,py,cpp,c,tensorflow,pytorch,raspberrypi,arduino,anaconda,vscode,latex,github,git)](https://skillicons.dev)
 
