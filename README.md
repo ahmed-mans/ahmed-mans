@@ -62,4 +62,7 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
     <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
+## Certifications
 
+[Fundamentals of Computer Vision & Image Processing in C++](https://courses.opencv.org/certificates/326392c9c5364d89b55369b93e502604)
+[Deep Learning with TensorFlow and Keras](https://courses.opencv.org/certificates/0a865fb37b4b4eea968949e850c5caac)
