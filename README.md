@@ -64,5 +64,5 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
 
 ## Certifications
 
-![Image Alt Text](file:///C:/Users/ahmed/Downloads/opencv%20(1).svg) [Fundamentals of Computer Vision & Image Processing in C++](https://courses.opencv.org/certificates/326392c9c5364d89b55369b93e502604)<br>
+![]([file:///C:/Users/ahmed/Downloads/opencv%20(1).svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Ffr%2Fsearch%3Fq%3Dopencv&psig=AOvVaw1wIAg2kjo47b5WPoi9YIIW&ust=1743688702534000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCahOHAuYwDFQAAAAAdAAAAABAE)) [Fundamentals of Computer Vision & Image Processing in C++](https://courses.opencv.org/certificates/326392c9c5364d89b55369b93e502604)<br>
 [Deep Learning with TensorFlow and Keras](https://courses.opencv.org/certificates/0a865fb37b4b4eea968949e850c5caac)
