@@ -19,4 +19,8 @@ I am __Computer Vision Engineer__, with a strong background in Machine Learning,
 I specialize in solving challenges with advanced Deep Learning and Image Processing Techniques using __OpenCV__ and __Tensoflow__.
 
 
-### 🛠️Technical Skills
+### 🛠️ Skills & Expertise
+
+- Technologies :
+  [![My Skills](https://skillicons.dev/icons?i=opencv,py,tensorflow,raspberrypi)](https://skillicons.dev)
+
