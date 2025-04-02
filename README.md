@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💬 About me
+## 💬 About me
 
 
 I am __Computer Vision Engineer__, with a strong background in Machine Learning, Deep Learning and Electronics.
