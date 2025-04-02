@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💬 About me
+
+
 I am __Computer Vision Engineer__, with a strong background in Machine Learning, Deep Learning and Electronics.
 I specialize in solving challenges with advanced Deep Learning and Image Processing Techniques using __OpenCV__ and __Tensoflow__.
 
 ### ⚡ Hands on experience
---
+
 
 - 🖼️ Image Classification<br>
 - 🔍 Object Detection<br>
