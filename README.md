@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am __Computer Vision Engineer__, with a strong background in Machine Learning, Deep Learning and Electronics.
-I specialize in solving challenges with advanced Deep Learning and Image Processing techniques using __OpenCV__ and __Tensoflow__.
+I am a __Computer Vision Engineer__ with a solid foundation in Machine Learning, Deep Learning, and Electronics. 
+I specialize in tackling complex challenges through advanced __Deep Learning__ and __Image Processing__ techniques, using tools like __OpenCV__ and __TensorFlow__ to deliver AI solutions.
 
 ## ⚡ Hands on experience
 
