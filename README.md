@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I am _Computer Vision Engineer_, with a strong background in Machine Learning, Deep Learning and Electronics.
+I am *Computer Vision Engineer*, with a strong background in Machine Learning, Deep Learning and Electronics.
 
 
 ### Technical Skills
