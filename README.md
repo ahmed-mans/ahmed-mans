@@ -21,17 +21,15 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 ### 🏗️ Hands on experience
 
 🖼️ Image Classification<br>
-🔍 Object Detection
-
-🎨 Image Segmentation / Semantic Segmentation.
-
-🔧 Image Processing
+🔍 Object Detection<br>
+🎨 Image Segmentation / Semantic Segmentation<br>
+🔧 Image Processing<br>
 
 
 ### 🛠️ Skills & Expertise
-- Language : French, English, Urdu/Hindi
-- Core Expertise: Deep Learning, Computer Vision, Image Processing, Machine Learning
-- Technologies :
+- __Language__ : French, English, Urdu/Hindi<br>
+- __Core Expertise__: Deep Learning, Computer Vision, Image Processing, Machine Learning<br>
+- __Technologies__ :<br>
 
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
