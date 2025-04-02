@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 I am __Computer Vision Engineer__, with a strong background in Machine Learning, Deep Learning and Electronics.
-I specialize in solving challenges using Deep Learning, OpenCV, Tensoflow and Pytorch.
+I specialize in solving challenges with advanced Deep Learning and Image Processing Techniques using OpenCV, Tensoflow and Pytorch.
 
 
 ### Technical Skills
