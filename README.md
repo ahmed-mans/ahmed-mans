@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/sniperking7000">
-    <img src="https://img.shields.io/badge/Kaggle-sea-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-lightblue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
  
 <!--
