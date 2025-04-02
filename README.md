@@ -22,5 +22,6 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 ### 🛠️ Skills & Expertise
 
 - Technologies :
+  
   [![My Skills](https://skillicons.dev/icons?i=opencv,py,tensorflow,raspberrypi)](https://skillicons.dev)
 
