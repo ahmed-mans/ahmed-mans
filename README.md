@@ -1,4 +1,4 @@
-### Hi! I am Ahmed Mansoor👋
+# Hi! I am Ahmed Mansoor👋
 
 <!--
 **ahmed-mans/ahmed-mans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me
-## Technical Skills
+### About me
+I am _Computer Vision Engineer_, with a strong background in Machine Learning, Deep Learning and Electronics.
+
+
+### Technical Skills
