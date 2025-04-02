@@ -19,9 +19,13 @@ I am __Computer Vision Engineer__, with a strong background in Machine Learning,
 I specialize in solving challenges with advanced Deep Learning and Image Processing Techniques using __OpenCV__ and __Tensoflow__.
 
 ### 🏗️ Hands on experience
+
 🖼️ Image Classification
+
 🔍 Object Detection
+
 🎨 Image Segmentation / Semantic Segmentation
+
 🔧 Image Processing
 
 
