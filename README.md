@@ -51,7 +51,7 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
     ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-    - __Other__ :
+    - __Tools__ :
       
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -66,3 +66,9 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
 
 [Fundamentals of Computer Vision & Image Processing in C++](https://courses.opencv.org/certificates/326392c9c5364d89b55369b93e502604)<br>
 [Deep Learning with TensorFlow and Keras](https://courses.opencv.org/certificates/0a865fb37b4b4eea968949e850c5caac)
+
+## Github Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-mans&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## Projects
