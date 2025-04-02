@@ -14,30 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💬 About me
-
 
 I am __Computer Vision Engineer__, with a strong background in Machine Learning, Deep Learning and Electronics.
-I specialize in solving challenges with advanced Deep Learning and Image Processing Techniques using __OpenCV__ and __Tensoflow__.
+I specialize in solving challenges with advanced Deep Learning and Image Processing techniques using __OpenCV__ and __Tensoflow__.
 
-### ⚡ Hands on experience
+## ⚡ Hands on experience
 
 - Image Classification<br>
 - Object Detection<br>
 - Image Segmentation / Semantic Segmentation<br>
 - Image Processing<br>
+- Machine Learning<br>
+- Deep Learning<br>
 
 
-### 🛠️ Skills & Expertise
+## 🛠️ Skills & Expertise
 
 - __Language__ : French, English, Urdu/Hindi<br>
 - __Core Expertise__: Deep Learning, Computer Vision, Image Processing, Machine Learning<br>
 - __Technologies__ :
+    - Programming language :
+      
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
