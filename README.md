@@ -23,5 +23,5 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 
 - Technologies :
   
-  [![My Skills](https://skillicons.dev/icons?i=opencv,py,cpp,c,tensorflow,pytorch,raspberrypi,arduino,anaconda,vscode,latex,github,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=opencv,py,cpp,c,numpy,tensorflow,pytorch,raspberrypi,arduino,anaconda,vscode,latex,github,git)](https://skillicons.dev)
 
