@@ -1,6 +1,6 @@
 # Hi! I am Ahmed Mansoor👋
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-shahzad-mansoor-555947193/))
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **ahmed-mans/ahmed-mans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
