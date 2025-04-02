@@ -20,8 +20,8 @@ I specialize in solving challenges with advanced Deep Learning and Image Process
 
 ### 🏗️ Hands on experience
 
-🖼️ Image Classification.
-🔍 Object Detection.
+🖼️ Image Classification<br>
+🔍 Object Detection
 
 🎨 Image Segmentation / Semantic Segmentation.
 
