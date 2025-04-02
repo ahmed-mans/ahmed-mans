@@ -1,5 +1,6 @@
 # Hi! I am Ahmed Mansoor👋
 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-shahzad-mansoor-555947193/))
 <!--
 **ahmed-mans/ahmed-mans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
