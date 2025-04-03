@@ -81,3 +81,6 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
 
 
 ## 🚀 Projects
+
+- [Traffic Sign Image Classificaiton](https://github.com/ahmed-mans/GTSRB-Traffic-sign-classification.git)
+  
