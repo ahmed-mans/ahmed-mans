@@ -39,7 +39,7 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
     - Image Processing
     - Machine Learning
     - Image Classification
-    - Object Detection<br
+    - Object Detection
     - Image Segmentation
   
 - __Technologies__ :
