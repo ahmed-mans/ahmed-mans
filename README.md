@@ -32,6 +32,8 @@ I specialize in tackling complex challenges through advanced __Deep Learning__ a
     - French
     - English
     - Urdu/Hindi
+    - German
+    - Arabic
     
 - __Core Expertise__:
     - Computer Vision
